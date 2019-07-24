@@ -1,4 +1,3 @@
-package mohan;
 
 public class DotNet {
 	
